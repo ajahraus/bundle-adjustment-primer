@@ -1,4 +1,4 @@
-module budle-adjustment-primer
+module bundle-adjustment-primer
 
 # Write your package code here.
 

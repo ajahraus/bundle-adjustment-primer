@@ -1,4 +1,4 @@
-name = "budle-adjustment-primer"
+name = "bundle-adjustment-primer"
 uuid = "ff30b5d4-e3ae-47fd-a392-54f4089c98cc"
 authors = ["Adam Jahraus <adamjahraus@gmail.com> and contributors"]
 version = "0.1.0"
